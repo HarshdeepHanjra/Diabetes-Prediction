@@ -21,7 +21,7 @@ The user inputs the following details:
 
 ## Web Interface Preview
 
-<a https://github.com/HarshdeepHanjra/Diabetes-Prediction/blob/main/webss.png>Website page</a>
+<a https://github.com/HarshdeepHanjra/Diabetes-Prediction/blob/main/webss.png> Website page</a>
 
 A clean, responsive UI featuring:
 - Soft gradient background  
@@ -53,9 +53,5 @@ A clean, responsive UI featuring:
 
 ---
 
-## 🚀 Setup Instructions
-
-### 🧩 1. Clone the Repository
-```bash
-git clone https://github.com/<your-username>/diabetes-prediction-system.git
-cd diabetes-prediction-system
+## Streamlit Interface 
+<a https://github.com/HarshdeepHanjra/Diabetes-Prediction/blob/main/Streamlitss.png > Streamlit </a>
