@@ -21,7 +21,7 @@ The user inputs the following details:
 
 ## Web Interface Preview
 
-![Diabetes Prediction System UI](https://github.com/HarshdeepHanjra/Diabetes-Prediction/blob/main/webss.png)
+<a https://github.com/HarshdeepHanjra/Diabetes-Prediction/blob/main/webss.png>Website page</a>
 
 A clean, responsive UI featuring:
 - Soft gradient background  
